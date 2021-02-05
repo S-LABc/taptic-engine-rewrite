@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Apple_Taptic_Engine_Rewrite.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LAST_VALUE" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MODEL_TYPE" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SERIAL_BAUDRATE" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">115200</Value>
+    </Setting>
+    <Setting Name="KEY_7_7P" Type="System.Char" Scope="Application">
+      <Value Profile="(Default)">A</Value>
+    </Setting>
+    <Setting Name="KEY_8_8P_X_XR" Type="System.Char" Scope="Application">
+      <Value Profile="(Default)">B</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

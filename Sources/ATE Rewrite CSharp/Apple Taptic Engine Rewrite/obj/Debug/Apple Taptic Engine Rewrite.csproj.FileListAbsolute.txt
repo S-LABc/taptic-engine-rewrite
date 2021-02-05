@@ -1,0 +1,28 @@
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\bin\Debug\Apple Taptic Engine Rewrite.exe.config
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\bin\Debug\Apple Taptic Engine Rewrite.exe
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\bin\Debug\Apple Taptic Engine Rewrite.pdb
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\bin\Debug\MetroFramework.Design.dll
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\bin\Debug\MetroFramework.dll
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\bin\Debug\MetroFramework.Fonts.dll
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\obj\Debug\Apple Taptic Engine Rewrite.csprojAssemblyReference.cache
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\obj\Debug\Apple_Taptic_Engine_Rewrite.Properties.Resources.resources
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\obj\Debug\Apple Taptic Engine Rewrite.csproj.GenerateResource.cache
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\obj\Debug\Apple Taptic Engine Rewrite.csproj.CopyComplete
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\obj\Debug\Apple Taptic Engine Rewrite.exe
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\obj\Debug\Apple Taptic Engine Rewrite.pdb
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\obj\Debug\Apple_Taptic_Engine_Rewrite.TapticEngineRewrite.resources
+E:\Проекты\Apple Service Tools\C# Client\Apple Taptic Engine Rewrite\obj\Debug\Apple_Taptic_Engine_Rewrite.Properties.Messages.resources
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\bin\Debug\Apple Taptic Engine Rewrite.exe.config
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\bin\Debug\Apple Taptic Engine Rewrite.exe
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\bin\Debug\Apple Taptic Engine Rewrite.pdb
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\obj\Debug\Apple Taptic Engine Rewrite.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\obj\Debug\Apple_Taptic_Engine_Rewrite.Properties.Messages.resources
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\obj\Debug\Apple_Taptic_Engine_Rewrite.TapticEngineRewrite.resources
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\obj\Debug\Apple_Taptic_Engine_Rewrite.Properties.Resources.resources
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\obj\Debug\Apple Taptic Engine Rewrite.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\obj\Debug\Apple Taptic Engine Rewrite.csproj.CopyComplete
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\obj\Debug\Apple Taptic Engine Rewrite.exe
+C:\Users\user\Desktop\C#\Apple Taptic Engine Rewrite\obj\Debug\Apple Taptic Engine Rewrite.pdb
