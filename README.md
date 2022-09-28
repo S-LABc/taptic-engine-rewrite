@@ -6,6 +6,3 @@
 * Sources - Исходники для Arduino и C#
 * Support - Вспомогательные файлы
 * Apple Taptic Engine Rewrite - Готовая программа на .NET
-
-# Ссылки
-* [Видео с примером](https://youtu.be/wGfgNxAD3ks)
